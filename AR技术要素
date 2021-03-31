@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T02:54:10.627Z" agent="5.0 (Windows)" version="14.5.3" etag="fCJb-WY99_v09wIwt7Nk" type="github"><diagram id="E4cqcozwkGli8RF4XVqD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-31T14:09:51.916Z" agent="5.0 (Windows)" etag="0IAT1FzeX8-_H_b1JfZ1" version="14.5.3" type="github">
+  <diagram id="E4cqcozwkGli8RF4XVqD" name="Page-1">
+    <mxGraphModel dx="868" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9DA0szGUVNUpmuUTdn9--35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=3;fontSize=27;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="610" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="521" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--6" value="ARCore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410.5" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="9DA0szGUVNUpmuUTdn9--15" target="9DA0szGUVNUpmuUTdn9--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="378" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="9DA0szGUVNUpmuUTdn9--3" target="9DA0szGUVNUpmuUTdn9--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--3" value="虚拟实体" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="9DA0szGUVNUpmuUTdn9--4" target="9DA0szGUVNUpmuUTdn9--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--4" value="现实场景" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--7" value="运动追踪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="259" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--8" value="环境理解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="369" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--9" value="光照估计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="479" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--12" value="虚拟空间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="374" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--21" value="现实空间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="374" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=13;rotation=-180;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="464" y="410" width="24" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=20;fontColor=#1A1A1A;strokeColor=#4D4D4D;" edge="1" parent="1" source="9DA0szGUVNUpmuUTdn9--28" target="9DA0szGUVNUpmuUTdn9--34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="455" />
+              <mxPoint x="750" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--28" value="虚实空间统一" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="608" y="435" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--30" value="&lt;div&gt;对齐两个空间&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--32" value="" style="endArrow=classic;html=1;fontSize=13;strokeWidth=2;strokeColor=#4D4D4D;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9DA0szGUVNUpmuUTdn9--24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449" y="454.5" as="sourcePoint" />
+            <mxPoint x="609" y="454.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=23;fontColor=#1A1A1A;strokeColor=#4D4D4D;" edge="1" parent="1" source="9DA0szGUVNUpmuUTdn9--34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--34" value="OpenGL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=3;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--36" value="Sceneform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="351" y="80" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9DA0szGUVNUpmuUTdn9--41" value="虚实融合显示" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=3;fontSize=23;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="349" y="900" width="215" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
