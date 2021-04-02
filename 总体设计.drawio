@@ -1,1 +1,257 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T01:01:46.612Z" agent="5.0 (Windows)" version="14.5.4" etag="DIFlbcYPLaVfH05g4UUa" type="github"><diagram id="XfNivLDLJFjiJOP7QZFu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-02T03:21:50.674Z" agent="5.0 (Windows)" etag="cvjLCwfbtXAkeJb2MFq2" version="14.5.4" type="github">
+  <diagram id="XfNivLDLJFjiJOP7QZFu" name="Page-1">
+    <mxGraphModel dx="1695" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-60" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="600" width="690" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-62" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="630" width="330" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="310" width="690" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-45" target="Yagi-_oM-okiuXWH6ObO-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-45" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="360" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1082" width="690" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="60" width="320" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-2" target="Yagi-_oM-okiuXWH6ObO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-2" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-3" target="Yagi-_oM-okiuXWH6ObO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-3" value="农业保险地块数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-20" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-5" target="Yagi-_oM-okiuXWH6ObO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.012;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-5" target="Yagi-_oM-okiuXWH6ObO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-5" value="服务器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-8" value="查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-9" value="返回" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.008;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-11" target="Yagi-_oM-okiuXWH6ObO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-11" target="Yagi-_oM-okiuXWH6ObO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-11" value="地块数据获取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="95" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-14" value="地块数据获取模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1125" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-15" target="Yagi-_oM-okiuXWH6ObO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-15" value="GPS定位" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="115" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-16" target="Yagi-_oM-okiuXWH6ObO-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-16" value="一维卡尔曼滤波器" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="115" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-22" target="Yagi-_oM-okiuXWH6ObO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-22" value="http请求" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="115" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-31" value="设备位置获取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1140" y="75" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-35" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="115" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-38" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="290" as="sourcePoint" />
+            <mxPoint x="1880" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-39" target="Yagi-_oM-okiuXWH6ObO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-39" value="可视化图形定制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="360" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-41" value="农作物符号化" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-43" value="文本信息" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-46" value="可视化图形" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1110" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-47" value="可视化图形定制模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1110" y="320" width="169" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-48" value="生成布局视图" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-50" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="570" as="sourcePoint" />
+            <mxPoint x="1877" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-51" value="数据AR可视化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="650" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-53" target="Yagi-_oM-okiuXWH6ObO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-53" value="设备姿态解算" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-54" target="Yagi-_oM-okiuXWH6ObO-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-54" value="创建锚点" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1279" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-55" target="Yagi-_oM-okiuXWH6ObO-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-55" value="锚定地块数据节点" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-58" value="位置追踪" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-61" value="数据可视化模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1100" y="605" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-63" value="数据可视化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1270" y="640" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-65" target="Yagi-_oM-okiuXWH6ObO-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-65" value="GPS定位结果" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="625" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-67" target="Yagi-_oM-okiuXWH6ObO-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-67" target="Yagi-_oM-okiuXWH6ObO-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-67" value="定位精度、时间间隔是否满足要求" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="750" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-69" target="Yagi-_oM-okiuXWH6ObO-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-69" value="一维卡尔曼滤波器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-71" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-310" y="920" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-73" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-76" target="Yagi-_oM-okiuXWH6ObO-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-76" target="Yagi-_oM-okiuXWH6ObO-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-76" value="结果与测量值差值是否满足阈值" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="1110" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-79" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1040" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-80" target="Yagi-_oM-okiuXWH6ObO-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-80" value="构造http请求" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-82" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-83" target="Yagi-_oM-okiuXWH6ObO-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-83" target="Yagi-_oM-okiuXWH6ObO-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-83" value="地块json文件" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-85" target="Yagi-_oM-okiuXWH6ObO-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-85" value="构造地块实体对象" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-87" value="位置数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" y="740" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-88" value="基本属性信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" y="810" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-89" value="可视化图形表达" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-90" value="表示地块数据的Sceneform节点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" y="670" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-91" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="685" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-93" target="Yagi-_oM-okiuXWH6ObO-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-93" value="位置数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="230" y="960" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="Yagi-_oM-okiuXWH6ObO-94" target="Yagi-_oM-okiuXWH6ObO-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1065" />
+              <mxPoint x="390" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-94" value="其他属性信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1050" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yagi-_oM-okiuXWH6ObO-95" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="975" width="20" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
